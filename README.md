@@ -81,3 +81,5 @@ Running scripts, especially those downloaded from the internet, can pose a secur
 - **Environment**: Consider running scripts in a safe environment, such as a virtual machine or a container, if you are testing scripts from unknown or untrusted sources.
 
 Remember, it's better to be cautious and take the time to understand what a script does before executing it, rather than risking potential harm to your system or data.
+
+Thanks!
